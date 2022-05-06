@@ -8,3 +8,4 @@ git init #könyvtár inicializálása git mappává
 git config --global --list #a globális beállítások listázása
 git add readme.md #readme.md változtatásainak staging-elése
 git commit -m "first commit" #összes staging commitolása "first commit" üzenettel
+git status #jelenlegi munkafolyamat állapota
