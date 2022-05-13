@@ -14,3 +14,4 @@ git remote add origin https://github.com/kovacskornel-szgya/git-tutorial.git # o
 git remote remove origin # origin nevű távolio repo eltávolítása
 git push -u origin master #új branch esetén használjuk
 git push #az aktuális branch-et tölti fel  
+új sor
